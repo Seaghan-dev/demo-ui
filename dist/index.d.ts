@@ -1,7 +1,7 @@
 /// <reference types="react" />
-import { ButtonHTMLAttributes } from 'react';
+import { ComponentPropsWithRef } from 'react';
 
-interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
+interface ButtonProps extends ComponentPropsWithRef<"button"> {
     label: string;
 }
 
