@@ -1,0 +1,2 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0});var e=require("react"),t=require("@stitches/react");function r(e){return e&&"object"==typeof e&&"default"in e?e:{default:e}}var o=r(e);const a=t.css({fontSize:"16px",fontWeight:"bold",color:"WhiteSmoke",border:"1px solid transparent",borderRadius:"6px",backgroundColor:"CadetBlue",padding:"8px 16px"}),d=t.styled("button",a);exports.Button=({label:e,...t})=>o.default.createElement(d,{...t},e);
+//# sourceMappingURL=index.js.map
