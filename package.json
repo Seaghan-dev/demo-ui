@@ -2,6 +2,11 @@
   "name": "@seaghan-dev/demo-ui",
   "version": "0.0.0",
   "description": "Demo UI library to be published as package in npm",
+  "homepage": "https://github.com/Seaghan-dev/demo-ui",
+  "bugs": {
+    "url": "https://github.com/Seaghan-dev/demo-ui/issues",
+    "email": "seanpatrickco@gmail.com"
+  },
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "scripts": {
